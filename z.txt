@@ -1,7 +1,5 @@
 rajesh
 saikumar
-<<<<<<< HEAD
 raviteja
 siva kumar
-=======
->>>>>>> parent of 61fd340... commiting z3
+
