@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi how are you
+=======
+hi this rajesh
+>>>>>>> d20f119f9ecba2c454f410e291c5fef618f240b6
