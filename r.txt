@@ -1,2 +1,6 @@
 hi this is rajesh
+<<<<<<< HEAD
 i am bad boy
+=======
+hai this is raviteja
+>>>>>>> origin/rajesh
