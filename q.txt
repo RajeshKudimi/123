@@ -1,8 +1,5 @@
 hai this is rajesh
 hai this is ravi
 hai this is sai
-<<<<<<< HEAD
-
-=======
 hai this is dhanu
->>>>>>> 4f5a8b5f54a1ff2f5fce5f77d0f3f4cf3c7b32a5
+
